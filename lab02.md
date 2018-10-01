@@ -45,6 +45,12 @@ title: 如何用Construct 2制作一个属于自己的小游戏呢？
 
 然后再在文件夹中选取事先准备好的“人物”，关闭任务框，调节“人物”大小。
 接下来就是给“人物”加动作啦。
+首先，点击你的“人物”，如图所示：
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(11)_LI.jpg)
+
+
+现在选择合适的动作吧！可以参考一下下图。
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(13)_LI.jpg)
 
 
 
