@@ -11,6 +11,7 @@ title: 如何用Construct 2制作一个属于自己的小游戏呢？
 当你下载完成后会发现教程什么的全是英文啊，英文不好的你是不是和我一样脑壳疼呢，如果是的话，请让我充当一次人肉翻译，让我们一起开启游戏，哦不，做游戏之旅吧。
 
 
+下面请大家按图示操作吧>-<
 ![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(2)_LI.jpg)
 
 
