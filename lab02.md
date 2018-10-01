@@ -55,4 +55,14 @@ title: 如何用Construct 2制作一个属于自己的小游戏呢？
 
 
 
+好啦，现在可以播放啦
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(14)_LI.jpg)
+
+
+
+这个游戏算是很简单啦，如果有人意犹未尽的话，可以上网参考一下别的教程，让你的游戏更加有趣吧。
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(15).png)
+
+
+
 
