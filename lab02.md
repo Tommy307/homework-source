@@ -49,6 +49,7 @@ title: 如何用Construct 2制作一个属于自己的小游戏呢？
 ![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(11)_LI.jpg)
 
 
+
 现在选择合适的动作吧！可以参考一下下图。
 ![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(13)_LI.jpg)
 
