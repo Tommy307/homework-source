@@ -8,6 +8,5 @@
 与画家靠感觉调配色彩不同，计算机调配色彩是十分精确的。  
 每种色彩都有一组确定的RGB值，想要得到每种确定的色彩只需输入相应的RGB值即可。  
 而把颜色与RGB值汇总绘制成图，就得到了色域。  
-![]()  
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/01.jpg)  
 通过色域，人们就可以随意选择自己需要的颜色，并可以精确存储这种颜色了。  
-
