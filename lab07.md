@@ -1,5 +1,10 @@
-![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/微信图片_20181115211458.png)
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/微信图片_20181115211458.png)  
+这是二进制表示的机器语言编程，真的看不懂，心疼用机器语言编程的前辈们。
 ![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/微信图片_20181115211512.png)
 ![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/微信图片_20181115211515.png)
 ![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/微信图片_20181115211519.png)
-![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/微信图片_20181115211522.png)
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/微信图片_20181115211522.png)  
+接下来这4张使用汇编语言编程。  
+PC每执行一条指令就会自动+2.  
+IR储存临时变量，与变量名。  
+ALU用来处理各种运算与分配内存地址。
