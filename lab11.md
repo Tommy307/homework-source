@@ -57,6 +57,44 @@ void qsort(int s[],int left,int right){
     qsort(s,mid+1,right);  
 
 }  
+    
+2>嵌套循环算法  
+用两个循环按顺序依次将带比较元素中的最小元素转移到带比较序列的最前端，从而达到从小到大排序的目的。  
+伪码：  
+int l=length(s[])
+FOR i=0 i<l-1 DO:  
+    FOR j=i+! j<l DO:  
+    IF(s[i]>s[j]) s_swap(i,j)
+    END IF
+    END FOR  
+END FOR  
+  
+程序：  
+#include<stdio.h>  
+
+void swap(int s[],int i,int j){  
+
+    int temp=s[i];  
+
+    s[i]=s[j];  
+
+    s[j]=temp;  
+
+}  
+
+void qsort(int s[],int l){  
+
+    for(int i=0;i<l-1;++i){  
+
+        for(int j=i+1;j<l;++j){  
+
+            if(s[i]>s[j]) swap(s,i,j);  
+
+        }  
+
+    }  
+
+}  
 
 
   
