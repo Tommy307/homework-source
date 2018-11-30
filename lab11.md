@@ -12,12 +12,9 @@
 伪码：  
 qsort(left right s[]):  
 IF right-l==left END  
-
-
 int mid=(left+right)/2;  
 s_swap(left,mid)  
 mid=left  
-
 FOR:i=left+1;i<=right DO:
 IF s[i]<s[left] mid++ s_awap(i,++mid)
 END IF  
@@ -25,25 +22,42 @@ s_swap(left,mid)
 END FOR  
 qsort(left mid-1)
 qsort(mid+1,right)
-END   
+END      
+
 
 程序：  
-void swap(int s[],int a,int b){
-    int temp=s[a];
-    s[a]=s[b];
-    s[b]=temp;
-}
-void qsort(int s[],int left,int right){
-    if(right-1==left) return;
-    swap(s,left,(left+right)/2);
-    int mid=left;
-    for(int i=left+1;i<=right;++i){
-        if(s[i]<left) swap(s,i,++mid);
-    }
-    swap(s,left,mid);
-    qsort(s,left,mid-1);
-    qsort(s,mid+1,right);
-}
+void swap(int s[],int a,int b){  
+
+    int temp=s[a];  
+
+    s[a]=s[b];  
+     
+    s[b]=temp;  
+
+}  
+
+void qsort(int s[],int left,int right){  
+
+    if(right-1==left) return;  
+
+    swap(s,left,(left+right)/2);   
+
+    int mid=left;  
+
+    for(int i=left+1;i<=right;++i){  
+
+        if(s[i]<left) swap(s,i,++mid);   
+
+    }  
+
+    swap(s,left,mid);  
+
+    qsort(s,left,mid-1);  
+
+    qsort(s,mid+1,right);  
+
+}  
+
 
   
 
