@@ -251,6 +251,6 @@ int main(){
     
       
 #下面是在dev—c++上的运行结果  
-![]()  
-![]()  
-![]()
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(40).png)  
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(41).png)  
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(42).png)
