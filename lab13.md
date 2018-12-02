@@ -69,40 +69,73 @@ void print_map(char s[][13]){
 }  
 
 
-void eat(char map[][13]){
-		if(map[Y[j]-1][X[j]]!='*'&&map[Y[j]-1][X[j]]!='X'&&map[Y[j]-1][X[j]]!='H'&&map[Y[j]-1][X[j]]!='$'){
-			map[Y[j]-1][X[j]]='X';
-			Y[j+1]=Y[j]-1;
-			X[j+1]=X[j];
-		}
-		else if(map[Y[j]][X[j]-1]!='*'&&map[Y[j]][X[j]-1]!='X'&&map[Y[j]][X[j]-1]!='H'&&map[Y[j]][X[j]-1]!='&'){
-			map[Y[j]][X[j]-1]='X';
-			Y[j+1]=Y[j];
-			X[j+1]=X[j]-1;
-		}
-		else if(map[Y[j]+1][X[j]]!='*'&&map[Y[j]+1][X[j]]!='X'&&map[Y[j]+1][X[j]]!='H'&&map[Y[j]+1][X[j]]!='$'){
-			map[Y[j]+1][X[j]]='X';
-			Y[j+1]=Y[j]+1;
-			X[j+1]=X[j];
-		}
-		else{
-			map[Y[j]][X[j]+1]='X';
-			Y[j+1]=Y[j];
-			X[j+1]=X[j]+1;
-		}
-		++j;
-}
-void move(char map[][13]){
-	char m=getchar();
-	switch(m){
-		case 'a':{
-			int bl=0;
-			if(X[0]-1==0||map[Y[0]][X[0]-1]=='X'){
-				game_over--;
-				return;
-			}
-			else{
-				if(map[Y[0]][X[0]-1]=='$'){eat(map);bl++;}   //吃吃吃 
+void eat(char map[][13]){  
+
+		if(map[Y[j]-1][X[j]]!='*'&&map[Y[j]-1][X[j]]!='X'&&map[Y[j]-1][X[j]]!='H'&&map[Y[j]-1][X[j]]!='$'){  
+
+			map[Y[j]-1][X[j]]='X';  
+
+			Y[j+1]=Y[j]-1;  
+
+			X[j+1]=X[j];  
+
+		}  
+
+		else if(map[Y[j]][X[j]-1]!='*'&&map[Y[j]][X[j]-1]!='X'&&map[Y[j]][X[j]-1]!='H'&&map[Y[j]][X[j]-1]!='&'){  
+
+			map[Y[j]][X[j]-1]='X';  
+
+			Y[j+1]=Y[j];  
+
+			X[j+1]=X[j]-1;  
+
+		}  
+
+		else if(map[Y[j]+1][X[j]]!='*'&&map[Y[j]+1][X[j]]!='X'&&map[Y[j]+1][X[j]]!='H'&&map[Y[j]+1][X[j]]!='$'){  
+
+			map[Y[j]+1][X[j]]='X';  
+
+			Y[j+1]=Y[j]+1;  
+
+			X[j+1]=X[j];  
+
+		}  
+
+		else{  
+
+			map[Y[j]][X[j]+1]='X';  
+
+			Y[j+1]=Y[j];  
+
+			X[j+1]=X[j]+1;  
+
+		}  
+
+		++j;  
+
+}  
+
+void move(char map[][13]){  
+
+	char m=getchar();  
+
+	switch(m){  
+
+		case 'a':{  
+
+			int bl=0;  
+
+			if(X[0]-1==0||map[Y[0]][X[0]-1]=='X'){  
+
+				game_over--;  
+
+				return;  
+
+			}  
+
+			else{  
+
+				if(map[Y[0]][X[0]-1]=='$'){eat(map);bl++;}   //吃吃吃
 				
 				map[Y[j]][X[j]]=' ';
 				if(j!=0){
