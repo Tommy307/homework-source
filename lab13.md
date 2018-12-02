@@ -125,7 +125,7 @@ void move(char map[][13]){
 			else{  
 
 				if(map[Y[0]][X[0]-1]=='$')
-                {eat(map);bl++;}                   //<eat>
+                    {eat(map);bl++;}                   //<eat>
 				
 				map[Y[j]][X[j]]=' ';
 				if(j!=0){
