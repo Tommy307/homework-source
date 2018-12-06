@@ -27,6 +27,11 @@
 其中我觉得蛮重要的就是我们的浏览痕迹了。  
 当我们在使用百度时，网页的旁边总会有一些小广告，大家可能会发现这些广告总是与自己有着某种联系，这说明我们上网的痕迹已经泄露了。  
 有人可能会问，不是说好了尊重我们的隐私吗，那我们去投诉吧。  
-不好意思，没用的。人家早就跟你说好了呀。  
+不好意思，没用的。人家早就跟你说好了呀。    
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(43).png)  
+#怎么保护我们的隐私尼？  
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(44).png)   
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(45).png)  
+
 
 
