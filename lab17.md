@@ -38,14 +38,22 @@
 那不如我们去投诉吧。不好意思，没用的。人家早就跟你说好了呀。  
 让我们先看一看**Microsoft的隐私声明**：  
 
-![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(43).png)  
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(43).png)   
+
+
 ![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(47).png)  
 
 这份声明中Microsoft讲明了它在收集我们的信息，同时也给出了收集渠道与信息用途，但我们可以看出这些信息主要是被用来改进用户体验和推销自家产品的，  
-这就跟公司的性质有关了，所以再让我们看看**百度的隐私声明**：  
-![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(49).png)
-![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(50).png)  
-![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(51).png)  
+这就跟公司的性质有关了，所以再让我们看看**百度的隐私声明**：    
+  
+  
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(49).png)  
+
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(50).png)   
+
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(51).png)    
+  
+
 其实百度的隐私声明中的条款与Microsoft有很多相似的地方，但可以看出它明显多了共享这一条，并且还莫名其妙地多了许多“合作伙伴”，  
 说白了，就是百度在将我们的信息出售给它的“合作伙伴”，而这也正是搜索引擎盈利的一种方式，现在大家应该知道网页上的那些广告是如何定位了的吧。  
 
