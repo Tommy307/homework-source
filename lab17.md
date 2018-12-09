@@ -20,18 +20,41 @@
 ![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/TIM图片20181206154104.png)  
 从上图我们可以看出，位置信息是我们的隐私。  
 可能有人会问，位置这个东西并没有包含什么实际的信息呀，就算别人知道了我们的位置，好像对我们这些everyday people来说并没什么影响。  
-其实不然，也许我们在某个时间的位置不大可能泄露我们的隐私，但一旦我们在较长时间的位置信息被记录下来，那么我们的生活习惯等隐私可能就暴露了。比方说如果我们的位置经常被定为在住宅区，那么我们很可能就被贴上了“肥宅”的标签，说不定淘宝就要开始向你推各种“肥宅饲料”了。  
+其实不然，也许我们在某个时间的位置不大可能泄露我们的隐私，但一旦我们在较长时间的位置信息被记录下来，那么我们的生活习惯等隐私可能就暴露了。  
+比方说如果我们的位置经常被定位在住宅区，那么我们很可能就被贴上了“肥宅”的标签，说不定淘宝就要开始向你推送各种“肥宅饲料”了。  
 
 
-但还有一些隐私就不那么好发现了。  
-其中我觉得蛮重要的就是我们的浏览痕迹了。  
+但还有一些隐私就不那么好发现了，可能鉴于它们的敏感性，互联网公司在收集它们前往往不会好好地把这些给用户看，而是将他们放在冗长的隐私条款中，  
+下面，就让我们根据Microsoft与百度的隐私条款来探讨一下我们的隐私是如何泄露的。  
+
+#为何隐私会泄露  
+
 当我们在使用百度时，网页的旁边总会有一些小广告，大家可能会发现这些广告总是与自己有着某种联系，这说明我们上网的痕迹已经泄露了。  
-有人可能会问，不是说好了尊重我们的隐私吗，那我们去投诉吧。  
-不好意思，没用的。人家早就跟你说好了呀。    
-![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(43).png)  
-#怎么保护我们的隐私尼？  
-![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(44).png)   
-![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(45).png)  
+有人可能会问，不是说好了尊重我们的隐私吗？为什么又会出现这种情况  
+那不如我们去投诉吧。不好意思，没用的。人家早就跟你说好了呀。  
+让我们先看一看*Microsoft的隐私声明：  
 
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(43).png)  
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(47).png)  
+
+这份声明中Microsoft讲明了它在收集我们的信息，同时也给出了收集渠道与信息用途，但我们可以看出这些信息主要是被用来改进用户体验和推销自家产品的，  
+这就跟公司的性质有关了，所以再让我们看看*百度的隐私声明：  
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(49).png)
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(50).png)  
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(51).png)  
+其实百度的隐私声明中的条款与Microsoft有很多相似的地方，但可以看出它明显多了共享这一条，并且还莫名其妙地多了许多“合作伙伴”，  
+说白了，就是百度在将我们的信息出售给它的“合作伙伴”，而这也正是搜索引擎盈利的一种方式，现在大家应该知道网页上的那些广告是如何定位了的吧。  
+
+#怎么保护我们的隐私呢？  
+要想保卫我们的隐私，首先得弄清楚隐私泄露的原理。  
+而其中很重要的一条就是Cookie及同类技术的应用。  
+Cookie是指被放在设备上的小型文本文件，用于存储数据，服务器方可以向用户的设备发送Cookie，这样他们就可以收集用户对相应网页的浏览情况。  
+这样一来，我们上网的痕迹就悄无声息地泄露了。  
+那么我们要怎么做才能防止Cookie泄露我们的信息呢。  
+Microsoft的隐私声明中指出  
+![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(45).png)   
+ 
+我国的法律法规中强调公民的隐私权，所以那些互联网公司不想写但又不得不写的东西，往往会被放在这些隐私条款中， 
+所以当我们感到隐私受到侵犯时，不妨先坐下来看看那些隐私声明，也许能有所启发把。  
 
 
