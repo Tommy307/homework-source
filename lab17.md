@@ -1,7 +1,7 @@
-##“隐私，我拿什么来拯救你？”  
+##**“隐私，我拿什么来拯救你？”**  
 
   
-#引言  
+#**引言**  
 
  
 在现实生活中我们每个人都有隐私，比方说：我们的日记是隐私，我们的财产是隐私，有时女性的年龄，体重也是隐私。  
@@ -11,7 +11,7 @@
 但是，生活在大数据时代，总会有人因为某种需要，运用一些手段来收集用户的信息，  
 对于不太熟悉电脑的人来说，了解一些保护隐私的方法就很有必要了。  
 
-#互联网隐私有哪些？  
+#**互联网隐私有哪些**？  
 想要保护我们的隐私，首先我们得知道哪些是我们的隐私。  
 
 那么当我们在互联网的世界中洋洋洒洒时，我们的隐私又是什么？  
@@ -27,18 +27,18 @@
 但还有一些隐私就不那么好发现了，可能鉴于它们的敏感性，互联网公司在收集它们前往往不会好好地把这些给用户看，而是将他们放在冗长的隐私条款中，  
 下面，就让我们根据Microsoft与百度的隐私条款来探讨一下我们的隐私是如何泄露的。  
 
-#为何隐私会泄露  
+#**为何隐私会泄露**  
 
 当我们在使用百度时，网页的旁边总会有一些小广告，大家可能会发现这些广告总是与自己有着某种联系，这说明我们上网的痕迹已经泄露了。  
 有人可能会问，不是说好了尊重我们的隐私吗？为什么又会出现这种情况  
 那不如我们去投诉吧。不好意思，没用的。人家早就跟你说好了呀。  
-让我们先看一看*Microsoft的隐私声明：  
+让我们先看一看*Microsoft的隐私声明*：  
 
 ![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(43).png)  
 ![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(47).png)  
 
 这份声明中Microsoft讲明了它在收集我们的信息，同时也给出了收集渠道与信息用途，但我们可以看出这些信息主要是被用来改进用户体验和推销自家产品的，  
-这就跟公司的性质有关了，所以再让我们看看*百度的隐私声明：  
+这就跟公司的性质有关了，所以再让我们看看*百度的隐私声明*：  
 ![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(49).png)
 ![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(50).png)  
 ![](https://raw.githubusercontent.com/zlsteven/homework-source/gh-pages/images/屏幕截图(51).png)  
